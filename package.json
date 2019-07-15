@@ -1,0 +1,29 @@
+{
+  "name": "note-float",
+  "version": "1.0.0",
+  "description": "a take a message / leave a message system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaHallee/Note-Float.git"
+  },
+  "keywords": [
+    "aws",
+    "ses",
+    "sns"
+  ],
+  "author": "Joshua Hallee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuaHallee/Note-Float/issues"
+  },
+  "homepage": "https://github.com/joshuaHallee/Note-Float#readme",
+  "dependencies": {
+    "aws-sdk": "^2.493.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
